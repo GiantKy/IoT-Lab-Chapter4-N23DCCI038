@@ -1,26 +1,32 @@
 \# IoT Lab — Chapter 4: Raspberry Pi with Python
 
+
+
+!\[GitHub Actions](https://github.com/<user>/IoT-Lab-Chapter4-N23DCCI038/actions/workflows/ci.yml/badge.svg)
+
+!\[GitLab CI](https://gitlab.com/<user>/IoT-Lab-Chapter4-N23DCCI038/badges/main/pipeline.svg)
+
+
+
 \*\*Họ tên:\*\* Thái Gia Kỳ
 
-\*\*MSSV:\*\* N23DCCI038 
+\*\*MSSV:\*\* N23DCCI038
 
 \*\*Lớp:\*\* D23CQCI01-N
 
 \## Danh sách bài tập
 
-| BT | Nền tảng | Thư mục | Trạng thái |
-|---|---|---|---|
-| 1 | QEMU | BT1\_QEMU\_SystemMonitor/ | Hoàn thành |
-| 2 | QEMU | BT2\_QEMU\_SensorSim/ | Hoàn thành |
-| 3 | Wokwi | BT3\_Wokwi\_GPIO/ | Hoàn thành |
-| 4 | Sense HAT | BT4\_SenseHAT/ | Hoàn thành |
-| 5 | Tổng hợp | BT5\_Integration/ | Hoàn thành |
+|BT|Nền tảng|Thư mục|Trạng thái|
+|-|-|-|-|
+|1|QEMU|BT1\_QEMU\_SystemMonitor/|Hoàn thành|
+|2|QEMU|BT2\_QEMU\_SensorSim/|Hoàn thành|
+|3|Wokwi|BT3\_Wokwi\_GPIO/|Hoàn thành|
+|4|Sense HAT|BT4\_SenseHAT/|Hoàn thành|
+|5|Tổng hợp|BT5\_Integration/|Hoàn thành|
 
 \## CI/CD
 
 \- GitHub Actions: xem tab Actions trên GitHub
 
 \- GitLab CI: xem tab CI/CD trên GitLab
-
-
 
