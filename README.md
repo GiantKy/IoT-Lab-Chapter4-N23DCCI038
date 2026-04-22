@@ -1,34 +1,20 @@
 \# IoT Lab — Chapter 4: Raspberry Pi with Python
 
-
-
 \*\*Họ tên:\*\* Thái Gia Kỳ
 
 \*\*MSSV:\*\* N23DCCI038 
 
 \*\*Lớp:\*\* D23CQCI01-N
 
-
-
 \## Danh sách bài tập
 
-
-
 | BT | Nền tảng | Thư mục | Trạng thái |
-
 |---|---|---|---|
-
 | 1 | QEMU | BT1\_QEMU\_SystemMonitor/ | Hoàn thành |
-
 | 2 | QEMU | BT2\_QEMU\_SensorSim/ | Hoàn thành |
-
 | 3 | Wokwi | BT3\_Wokwi\_GPIO/ | Hoàn thành |
-
 | 4 | Sense HAT | BT4\_SenseHAT/ | Hoàn thành |
-
 | 5 | Tổng hợp | BT5\_Integration/ | Hoàn thành |
-
-
 
 \## CI/CD
 
