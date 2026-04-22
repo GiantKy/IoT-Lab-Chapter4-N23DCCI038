@@ -2,11 +2,11 @@
 
 
 
-\*\*Họ tên:\*\* Nguyễn Văn A  
+\*\*Họ tên:\*\* Thái Gia Kỳ
 
-\*\*MSSV:\*\* 20210001  
+\*\*MSSV:\*\* N23DCCI038 
 
-\*\*Lớp:\*\* IoT-01
+\*\*Lớp:\*\* D23CQCI01-N
 
 
 
@@ -26,7 +26,7 @@
 
 | 4 | Sense HAT | BT4\_SenseHAT/ | Hoàn thành |
 
-| 5 | Tổng hợp | BT5\_Integration/ | Chưa làm |
+| 5 | Tổng hợp | BT5\_Integration/ | Hoàn thành |
 
 
 
